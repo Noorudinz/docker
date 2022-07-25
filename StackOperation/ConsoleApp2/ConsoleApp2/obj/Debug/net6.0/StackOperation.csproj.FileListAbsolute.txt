@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\StackOperation.exe
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\StackOperation.deps.json
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\StackOperation.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\StackOperation.dll
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\StackOperation.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.dll
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\StackOperation.dll
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.pdb
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\StackOperation.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\StackOperation.dll
