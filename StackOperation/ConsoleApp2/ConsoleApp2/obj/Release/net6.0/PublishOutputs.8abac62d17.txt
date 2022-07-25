@@ -1,0 +1,5 @@
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\publish\StackOperation.exe
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\publish\StackOperation.dll
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\publish\StackOperation.deps.json
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\publish\StackOperation.runtimeconfig.json
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\publish\StackOperation.pdb

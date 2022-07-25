@@ -8,7 +8,7 @@ namespace Stack.Operations
 {
     public class Stack_operations
     {
-        const int MAX = 10;
+        const int MAX = 3;
         int top;
         int[] stack = new int[MAX];
         public Stack_operations()
@@ -17,16 +17,23 @@ namespace Stack.Operations
         }
         public void Push(int data)
         {
-            if (top >= MAX)
+            try
             {
-                Console.WriteLine("Stack Overflow");
-                
+                if (top > MAX)
+                {
+                    Console.WriteLine("Stack Overflow");
+                }
+                else
+                {
+                    stack[++top] = data;
+                    Console.WriteLine("Pushed Element is" + " " + data); ;
+                }
             }
-            else
+            catch(Exception ex)
             {
-                stack[++top] = data;
-                Console.WriteLine("Pushed Element is" +" "+ data); ;
+                Console.WriteLine("Stack overflow " + ex.Message.ToString());
             }
+         
         }
 
         public int  Pop()

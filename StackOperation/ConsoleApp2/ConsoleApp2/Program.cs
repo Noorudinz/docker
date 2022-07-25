@@ -1,6 +1,5 @@
 ﻿using Stack.Operations;
 
-
 class demo : Stack_operations
 {
     public static void Main(String[] args)

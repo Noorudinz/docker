@@ -1,0 +1,15 @@
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\StackOperation.exe
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\StackOperation.deps.json
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\StackOperation.runtimeconfig.json
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\StackOperation.dll
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\bin\Release\net6.0\StackOperation.pdb
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.csproj.AssemblyReference.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.AssemblyInfoInputs.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.AssemblyInfo.cs
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.csproj.CoreCompileInputs.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.dll
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\refint\StackOperation.dll
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.pdb
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\StackOperation.genruntimeconfig.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ref\StackOperation.dll
