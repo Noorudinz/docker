@@ -1,0 +1,5 @@
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\StackOperation.csproj.AssemblyReference.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\StackOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\StackOperation.AssemblyInfoInputs.cache
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\StackOperation.AssemblyInfo.cs
+D:\Softwares\NoorPractice\Docker\StackOperation\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\StackOperation.csproj.CoreCompileInputs.cache
