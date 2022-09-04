@@ -25,5 +25,5 @@ D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\WebAPI.dll
 D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
-D:\Softwares\NoorPractice\Docker\API\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
-D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Softwares\NoorPractice\Docker\API\WebAPI\bin\Debug\net5.0\WebAPI.StaticWebAssets.xml
+D:\Softwares\NoorPractice\Docker\API\WebAPI\obj\Debug\net5.0\refint\WebAPI.dll

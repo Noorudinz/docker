@@ -1,0 +1,17 @@
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\CustomerWebApi.deps.json
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\CustomerWebApi.runtimeconfig.json
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\appsettings.Development.json
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\appsettings.json
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\CustomerWebApi.exe
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\CustomerWebApi.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\Microsoft.Identity.Client.dll
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\bin\Debug\CustomerWebApi.pdb
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\obj\Debug\docker-compose.dcproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\Softwares\NoorPractice\Docker\SqlServerDockerize>docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=admin@123" -p 1401:1433 --name sqlserver1 -d mcr.microsoft.com/mssql/server:2019-latest
+
+datasource: localhost, 1401
+user: SA
+password: admin@123
+
+connection: check trusted

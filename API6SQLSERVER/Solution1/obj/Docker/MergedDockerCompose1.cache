@@ -1,0 +1,34 @@
+services:
+  customerwebapi:
+    build:
+      context: D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1
+      dockerfile: CustomerWebApi/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: CustomerWebApi
+      target: base
+    container_name: CustomerWebApi
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: ''
+    image: customerwebapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net6.0/CustomerWebApi.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - target: 80
+    tty: true
+    volumes:
+    - D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1\CustomerWebApi:/app:rw
+    - C:\Users\USER\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\USER\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\USER\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Users\USER\.nuget\packages:/root/.nuget/packages:ro
+    - D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1:/src:rw
+version: '3.4'

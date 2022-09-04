@@ -1,0 +1,11 @@
+services:
+  customerwebapi:
+    build:
+      context: D:\Softwares\NoorPractice\Devops\API6SQLSERVER\Solution1
+      dockerfile: CustomerWebApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: customerwebapi
+    ports:
+    - target: 80
+version: '3.4'

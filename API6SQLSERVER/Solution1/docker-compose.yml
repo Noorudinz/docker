@@ -1,0 +1,30 @@
+version: '3.4'
+
+networks:
+  backend: 
+
+services:
+  customerdb: 
+    container_name: noor-customer-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=password@123
+    networks:
+      - backend
+    ports:
+      - 4001:1433 
+  customerwebapi:
+    container_name: noor-customer-api
+    image: ${DOCKER_REGISTRY-}customerwebapi
+    build:
+      context: .
+      dockerfile: CustomerWebApi/Dockerfile
+    networks:
+      - backend
+    ports:
+      - 4002:80
+    environment: 
+      - DB_HOST=customerdb
+      - DB_NAME=customer
+      - DB_SA_PASSWORD=password@123
